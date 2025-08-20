@@ -10,10 +10,7 @@
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Download
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt=""
-     height="80">](https://play.google.com/store/apps/details?id=in.NikhilKartha5.weatherwidget)
+
 
 ## Features
 * Accurate and real-time weather updates.
@@ -38,6 +35,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 * [Open-Meteo](https://open-meteo.com/): Weather and location data (Licence: GPL v3)
 * [Bas Milius](https://github.com/basmilius/weather-icons): Weather icons (Licence: MIT)
 
-## Translations
-Please help me to translate this application via [POEditor](https://poeditor.com/join/project/DV7W7CTUV0). You may also translate after downloading the original language string available [here](https://github.com/NikhilKartha5/Weather/blob/master/app/src/main/res/values/strings.xml).
+
 
