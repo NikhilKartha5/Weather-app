@@ -4,6 +4,12 @@
 
 ### An open-source, privacy-oriented application for accurate real-time weather updates!
 
+## Repository
+[GitHub: NikhilKartha5/Weather-app](https://github.com/NikhilKartha5/Weather-app)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 ## Download
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
      alt=""
@@ -24,6 +30,9 @@
 
 ## Limitations
 * Supports only one location at a time (either manually configured or automatically acquired from the GPS signal)
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
 
 ## Credits
 * [Open-Meteo](https://open-meteo.com/): Weather and location data (Licence: GPL v3)
